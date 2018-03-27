@@ -8,7 +8,7 @@
     },
     "logo": "../images/docker-swarm-logo-89x70.png",
     "name": "Docker Swarm Cluster",
-    "region": "users",
+    "region": "vz7lab",
     "globals": {
         "connect-node": "${baseUrl}/scripts/connect-swarm-node.js?_r=${fn.random}",
         "update-tokens": "${baseUrl}/scripts/update-swarm-tokens.js?_r=${fn.random}",
